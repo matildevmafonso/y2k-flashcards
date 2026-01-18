@@ -1,16 +1,31 @@
-# React + Vite
+# 💾 FLASH_BATTLE Y2K
+> **SYSTEM STATUS:** ONLINE  
+> **PROTOCOL:** GAMIFIED LEARNING  
+> **AESTHETIC:** Y2K / VAPORWAVE / CYBER-GRUNGE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](https://img.shields.io/badge/VERSION-2.0-pink?style=for-the-badge) ![React](https://img.shields.io/badge/CORE-REACT-blue?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/STYLE-TAILWIND-cyan?style=for-the-badge)
 
-Currently, two official plugins are available:
+## 💿 OVERVIEW
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**FLASH_BATTLE 2K** is not your average study tool. It is a **retro-futuristic gamified flashcard app** that turns memorization into a high-score battle. 
 
-## React Compiler
+Built with **React** and **Tailwind CSS**, it features a rigorous "Battle Mode" where you maintain streaks, earn XP, and defeat "Bosses" (Classes) and "Target Points" (Topics) in a Windows 98-meets-Cyberpunk interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚡ FEATURES
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **🗄️ Hierarchical Data:** Organize cards by **Main Boss** (Class) -> **Target Point** (Topic).
+* **🎮 Battle Mode:** Study session converted into an arcade game.
+    * Score tracking based on correct answers.
+    * **Combo Streaks** (activates "Fire Mode" visual effects).
+    * Accuracy calculation.
+* **💾 Local Persistence:** Data is saved to the browser's `localStorage` (Cyber-Memory) so you never lose progress.
+* **🎨 Y2K Aesthetic:**
+    * CRT Monitor scanlines.
+    * Pixel fonts (`VT323`, `Monitorica`, `Russo One`).
+    * Holographic/Chrome UI elements.
+    * Marquee scrolling text.
+* **📱 Fully Responsive:** Hacks the mainframe on Mobile, Tablet, and Desktop.
+
+---
